@@ -1,3 +1,4 @@
 # TrendWear
-Site ilustrativo loja de roupas TrendWear <br>
+Site ilustrativo loja de roupas TrendWear 
+<br><br>
 Acessar site: 
